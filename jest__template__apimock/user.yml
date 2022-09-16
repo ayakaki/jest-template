@@ -1,0 +1,3 @@
+api:
+  '/mock/users/:id/@delete':
+    parser: parser-system-error.yml

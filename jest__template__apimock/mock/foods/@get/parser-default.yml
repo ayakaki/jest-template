@@ -1,0 +1,6 @@
+- then:
+    status: 200
+    headers:
+      Content-Type: application/json
+      profile-Id: hogehoge
+    body: foodsGet.json

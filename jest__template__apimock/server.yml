@@ -1,0 +1,6 @@
+http:
+  host: localhost
+  port: 8100
+socket:
+  host: localhost
+  port: 8110
