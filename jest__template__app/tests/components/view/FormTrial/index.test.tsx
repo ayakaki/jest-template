@@ -1,6 +1,6 @@
 import FormTrial from "../../../../src/components/view/FormTrial";
 
-import { fireEvent, render, screen, wrapper } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom/extend-expect";
 
 
