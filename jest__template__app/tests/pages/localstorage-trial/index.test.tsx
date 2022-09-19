@@ -8,7 +8,6 @@ describe("LocalStorageMockテスト", () => {
 
     const initialRender = render(<LocalStorageTrial />);
 
-
     const setButton = screen.getByTestId('input-button');
     fireEvent.click(setButton)
 
