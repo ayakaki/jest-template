@@ -10,13 +10,21 @@ Next.js アプリケーションのルートディレクトに移動する。<br
 リクストを送信する。<br>
 ```http://localhost:3000```
 
-# API モックサーバ立ち上げ方法
-モックサーバアプリのルートディレクトリに移動する。<br>
-```cd ~/jest__template__apimock```
+# 内容
+ - 1画面内操作
+ - axios
+ - LocalStorage への格納
+
+
+
+# 主要コマンド
+テストの開始<br>
+```npm run test```
 <br>
-下記コマンドでアプリケーションを立ち上げる。<br>
-```instant-mock```
+SnapShot の更新<br>
+```npx jest --update-snapshot```
 <br>
-リクストを送信する。<br>
-```http://localhost:8100```
+
+
+
  
