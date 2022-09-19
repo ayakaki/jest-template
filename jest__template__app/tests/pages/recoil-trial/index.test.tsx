@@ -2,7 +2,6 @@
 import RecoilTrial from "../../../src/pages/recoil-trial";
 import { fireEvent, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom/extend-expect";
-import { useRecoilValue } from "recoil";
 import { RecoilRoot } from 'recoil';
 
 
