@@ -14,8 +14,7 @@ Next.js アプリケーションのルートディレクトに移動する。<br
  - 1画面内操作
  - axios
  - LocalStorage への格納
-
-
+ - Recoil への格納
 
 # 主要コマンド
 テストの開始<br>
