@@ -1,5 +1,7 @@
 # my-jest-template
 
+Next.js アプリケーションにて、`JEST` を使用する際のテンプレートプロジェクト
+
 ## FEATURE
 
 - 画面内操作
